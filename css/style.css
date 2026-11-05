@@ -1,8 +1,17 @@
 html {
     box-sizing: border-box;
-    background-color: #232136;
-    color: F9FAF8
+    color:#F9FAF8;
 }
 body{
-    background-color: white;
+
+}
+.head{
+    background-color: #232136;
+
+}
+.hinfo{
+    color:whitesmoke;
+}
+.pinfo{
+    color: antiquewhite;
 }
