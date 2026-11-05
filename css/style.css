@@ -5,13 +5,25 @@ html {
 body{
 
 }
-.head{
-    background-color: #232136;
+.web_info{
+    background-color:#212936;
 
 }
-.hinfo{
+h1{
     color:whitesmoke;
 }
-.pinfo{
-    color: antiquewhite;
+p{
+    color: #f6f6f6;
+}
+h2{
+    color:black
+}
+h4{
+    color: lightgray
+}
+.head_navigation{
+    display:flex;
+    justify-content: space-between;
+    padding: 8px;
+
 }
